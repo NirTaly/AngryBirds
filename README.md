@@ -1,4 +1,4 @@
-![WhatsApp Image 2021-09-01 at 16 26 57](https://user-images.githubusercontent.com/60900547/131878448-573ac882-bdd8-4f81-a01c-c08dbe21f66c.jpeg)
+
 # AngryBirds
 The well known game, implemented in SystemVerilog, for DE10 FPGA
 
@@ -21,8 +21,9 @@ Requirments:
 * PS/2 keyboard
 * VGA monitor
 
-![WhatsApp Image 2021-09-01 at 16 26 56](https://user-images.githubusercontent.com/60900547/131878513-266de35f-3e9c-44ab-9b22-47b64e3e3942.jpeg)
-![WhatsApp Image 2021-09-01 at 16 26 56 (4)](https://user-images.githubusercontent.com/60900547/131878542-1e8ce5cf-4826-408d-8d6d-5918d2e11322.jpeg)
-![WhatsApp Image 2021-09-01 at 16 26 56 (3)](https://user-images.githubusercontent.com/60900547/131878556-5a66eb04-7b2b-445f-ba77-871dedcfff32.jpeg)
-![WhatsApp Image 2021-09-01 at 16 26 56 (2)](https://user-images.githubusercontent.com/60900547/131878565-ea44a361-75de-4203-8393-9cdc22ded2b1.jpeg)
-![WhatsApp Image 2021-09-01 at 16 26 56 (1)](https://user-images.githubusercontent.com/60900547/131878580-93e8ea43-7f73-4094-aa62-3af5c5cc4dcc.jpeg)
+![startMap](https://user-images.githubusercontent.com/60900547/131878912-d752b761-833e-45bf-8234-535e0bf4760d.jpeg)
+![map1](https://user-images.githubusercontent.com/60900547/131878940-d3ca1736-f75c-4ea8-960c-5194dd3d9b93.jpeg)
+![map2](https://user-images.githubusercontent.com/60900547/131878954-72fe5741-a28d-4a72-9c2d-25f1f15b12f3.jpeg)
+![map3](https://user-images.githubusercontent.com/60900547/131878963-62e39759-6751-4b52-b931-4bab0201a31b.jpeg)
+![map4](https://user-images.githubusercontent.com/60900547/131878976-a3499fff-bd71-48dd-8e99-6f01691c8f0e.jpeg)
+![infMod](https://user-images.githubusercontent.com/60900547/131878988-c89023cf-7268-4986-8eab-10bb236e91e9.jpeg)
