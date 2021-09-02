@@ -16,6 +16,6 @@ Include twists:
 - the pigs' locations are randomly selected
 
 Requirments:
-DE10 FPGA
-PS/2 keyboard
-VGA monitor
+* DE10 FPGA
+* PS/2 keyboard
+* VGA monitor
