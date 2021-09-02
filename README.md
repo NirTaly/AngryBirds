@@ -27,3 +27,6 @@ Requirments:
 ![map3](https://user-images.githubusercontent.com/60900547/131878963-62e39759-6751-4b52-b931-4bab0201a31b.jpeg)
 ![map4](https://user-images.githubusercontent.com/60900547/131878976-a3499fff-bd71-48dd-8e99-6f01691c8f0e.jpeg)
 ![infMod](https://user-images.githubusercontent.com/60900547/131878988-c89023cf-7268-4986-8eab-10bb236e91e9.jpeg)
+![image](https://user-images.githubusercontent.com/60900547/131879137-55e67280-c36b-4701-a372-8f155fa6ebe7.png)
+![image](https://user-images.githubusercontent.com/60900547/131879153-1779161a-2726-46b3-a823-b07d474d6b3a.png)
+
