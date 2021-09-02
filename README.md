@@ -1,7 +1,7 @@
 # AngryBirds
 The well known game, implemented in SystemVerilog, for DE10 FPGA
 
-This is an archive file of the project.
+repo contains archive file of the project (.qar), and (.sof) file.
 
 Implemented in SystemVerilog.
 Passed simulations and debugging via SignalTap.
